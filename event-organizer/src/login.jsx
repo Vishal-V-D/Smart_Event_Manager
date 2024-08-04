@@ -89,7 +89,7 @@ const Login = () => {
           <div className="social-icons">
             <a href="#" className="icon" onClick={handleGoogleSignIn}>
             <img src="./google.png" alt="" />
-            <span>Sign up with google</span>
+            <span>Sign in with google</span>
             </a>
           </div>
           <span>or use your email and password</span>
